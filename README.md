@@ -1,13 +1,13 @@
 # vim-quickopen-tvio
 a small vim plugin for very fast file opening using the leader key and tvio
 
-* <leader> + t + key: opens a file mapped to key in a new tab
+* leader + t + key: opens a file mapped to key in a new tab
 
-* <leader> + i + key: opens a file mapped to key in a new horizontal split window
+* leader + i + key: opens a file mapped to key in a new horizontal split window
 
-* <leader> + v + key: opens a file mapped to key in a new vertical split window
+* leader + v + key: opens a file mapped to key in a new vertical split window
 
-* <leader> + o + key: opens a file mapped to key in the current window
+* leader + o + key: opens a file mapped to key in the current window
 
 
 # Installation 
